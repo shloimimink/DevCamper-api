@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="44cda4bb-1b36-4264-bfdf-673d0cb835f9" name="Default Changelist" comment="finished product">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/devcamper_api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/bootcamps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/courses.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/reviews.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/users.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/config.env.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/db.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/bootcamps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/courses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/reviews.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/advancedResults.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/logger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/Bootcamp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/Course.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/Review.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/bootcamps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/courses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/reviews.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seeder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/errorResponse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/geocoder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/sendEmail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1otS5QHV3BYjl2FSO11si1d1x7a" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44cda4bb-1b36-4264-bfdf-673d0cb835f9" name="Default Changelist" comment="" />
+      <created>1614104209181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614104209181</updated>
+      <workItem from="1614104210247" duration="56801000" />
+      <workItem from="1614886678056" duration="20821000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="finished product" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished product" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="283" y="338" key="SettingsEditor" timestamp="1614105914560">
+      <screen x="0" y="25" width="3440" height="1355" />
+    </state>
+    <state x="283" y="338" key="SettingsEditor/0.25.3440.1355/3440.270.1920.1055@0.25.3440.1355" timestamp="1614105914560" />
+    <state x="1480" y="25" width="1107" height="1046" key="dock-window-1" timestamp="1614889628723">
+      <screen x="0" y="25" width="3440" height="1355" />
+    </state>
+    <state x="1480" y="25" width="1107" height="1046" key="dock-window-1/0.25.3440.1355@0.25.3440.1355" timestamp="1614889628723" />
+    <state x="434" y="331" key="run.anything.popup" timestamp="1614964693994">
+      <screen x="0" y="25" width="3440" height="1355" />
+    </state>
+    <state x="434" y="331" key="run.anything.popup/0.25.3440.1355@0.25.3440.1355" timestamp="1614964693994" />
+    <state x="434" y="337" width="670" height="676" key="search.everywhere.popup" timestamp="1614964693516">
+      <screen x="0" y="25" width="3440" height="1355" />
+    </state>
+    <state x="434" y="337" width="670" height="676" key="search.everywhere.popup/0.25.3440.1355@0.25.3440.1355" timestamp="1614964693516" />
+  </component>
+</project>
